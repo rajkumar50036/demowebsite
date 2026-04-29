@@ -1,0 +1,71 @@
+[
+    {
+        "name": " b",
+        "phone": "+919391354003",
+        "email": "rajkumar50036@gmail.com",
+        "date": "23233-01-10",
+        "time": "10:30",
+        "department": "General Medicine",
+        "symptoms": ""
+    },
+    {
+        "id": "8e63aa98",
+        "name": "Raj",
+        "phone": "9876543210",
+        "email": "raj@example.com",
+        "date": "2026-05-01",
+        "time": "10:00 AM",
+        "department": "Cardiology",
+        "symptoms": "Slight chest pain",
+        "status": "Pending",
+        "fee_inr": 1000
+    },
+    {
+        "id": "20f72b67",
+        "name": "Sarah Connor",
+        "phone": "5551234567",
+        "email": "sarah@skynet.com",
+        "date": "2026-05-02",
+        "time": "2:30 PM",
+        "department": "Orthopedics",
+        "symptoms": "Joint pain in the knee",
+        "status": "Pending",
+        "fee_inr": 1000
+    },
+    {
+        "id": "772542ae",
+        "name": "Dr. Emmett Brown",
+        "phone": "5559876543",
+        "email": "doc@timetravel.org",
+        "date": "2026-05-03",
+        "time": "09:15 AM",
+        "department": "Neurology",
+        "symptoms": "Frequent headaches",
+        "status": "Pending",
+        "fee_inr": 1000
+    },
+    {
+        "id": "79635e74",
+        "name": "Jane Smith",
+        "phone": "1234567890",
+        "email": "jane.smith@example.com",
+        "date": "2026-05-01",
+        "time": "10:00",
+        "department": "General Medicine",
+        "symptoms": "Chest pain and shortness of breath.",
+        "status": "Pending",
+        "fee_inr": 500
+    },
+    {
+        "id": "3c62f7d6",
+        "name": "Jane Smith",
+        "phone": "1234567890",
+        "email": "jane.smith@example.com",
+        "date": "2026-01-05",
+        "time": "10:00",
+        "department": "General Medicine",
+        "symptoms": "Chest pain.",
+        "status": "Pending",
+        "fee_inr": 500
+    }
+]
